@@ -1,0 +1,58 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "price": 79.99,
+    "category": "Electronics",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=Headphones"
+  },
+  {
+    "id": "prod_002",
+    "name": "Men's Casual T-Shirt",
+    "description": "Comfortable cotton t-shirt, perfect for everyday wear.",
+    "price": 24.50,
+    "category": "Apparel",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=T-Shirt"
+  },
+  {
+    "id": "prod_003",
+    "name": "Smart Fitness Tracker",
+    "description": "Monitor your steps, heart rate, and sleep with this sleek fitness tracker.",
+    "price": 49.99,
+    "category": "Electronics",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=Fitness+Tracker"
+  },
+  {
+    "id": "prod_004",
+    "name": "Women's Yoga Pants",
+    "description": "Stretchy and breathable yoga pants for ultimate comfort during workouts.",
+    "price": 35.00,
+    "category": "Apparel",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=Yoga+Pants"
+  },
+  {
+    "id": "prod_005",
+    "name": "Portable Power Bank 10000mAh",
+    "description": "Compact and powerful charger for your mobile devices.",
+    "price": 29.99,
+    "category": "Electronics",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=Power+Bank"
+  },
+  {
+    "id": "prod_006",
+    "name": "Unisex Running Shoes",
+    "description": "Lightweight and supportive shoes for all your running needs.",
+    "price": 89.99,
+    "category": "Footwear",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=Running+Shoes"
+  },
+  {
+    "id": "prod_007",
+    "name": "Leather Wallet",
+    "description": "Classic bifold wallet made from genuine leather.",
+    "price": 45.00,
+    "category": "Accessories",
+    "imageUrl": "https://placehold.co/300x300/E0E0E0/000000?text=Wallet"
+  }
+]
