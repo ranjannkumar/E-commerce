@@ -21,11 +21,15 @@ const user = require('./routes/userRoute');
 const product = require('./routes/productRoute');
 const order = require('./routes/orderRoute');
 const payment = require('./routes/paymentRoute');
+//  test product routes
+const testProduct = require('./routes/testProductsRoute');
 
 app.use('/api/v1', user);
 app.use('/api/v1', product);
 app.use('/api/v1', order);
 app.use('/api/v1', payment);
+//new test product routes under a distinct base path
+app.use('/test-api/v1', testProduct);
 
 // deployment
 initCAppBootstrap();
